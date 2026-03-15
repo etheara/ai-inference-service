@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic
+numpy
+scikit-learn
+joblib
+sentence-transformers
+torch==2.5.1 --index-url https://download.pytorch.org/whl/cpu
